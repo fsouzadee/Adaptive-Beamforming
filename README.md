@@ -1,7 +1,7 @@
 Adaptive-Beamforming
 ====================
 
-Adaptive Beamforming algorithm comparison
+Adaptive beamforming algorithm comparison
 
 Algorithms:
 Least Mean Square,
